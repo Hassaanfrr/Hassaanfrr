@@ -4,7 +4,7 @@
 - 💞️ I’m looking to Learn About Ethical Hacking and AI/ML
 - 📫 How to reach me Insta: hassaanfrr
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
+
 
 <!---
 Hassaanfrr/Hassaanfrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
